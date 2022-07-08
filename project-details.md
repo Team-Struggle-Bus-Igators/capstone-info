@@ -26,11 +26,11 @@
 
 ### Trello Board
 - Swim lanes
-  - [ ] Icebox
-  - [ ] MVP
-  - [ ] Doing
-  - [ ] Code review
-  - [ ] Done
+  - [x] Icebox
+  - [x] MVP
+  - [x] Doing
+  - [x] Code review
+  - [x] Done
 
 ### Team Name
 Your team name will not be the same as your app name, so get creative!
