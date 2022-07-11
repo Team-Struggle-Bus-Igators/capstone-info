@@ -15,7 +15,7 @@
   - [x] Add the instructors
 - [x] Create a team Heroku account
   - [x] Be sure to keep track of the username and password as we will need it for deployment
-- [ ] Decide on Developer Roles
+- [x] Decide on Developer Roles
 
 ### Green Light Meeting
 - [ ] Elevator pitch - 30 sec summary of the app
