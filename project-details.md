@@ -19,9 +19,9 @@
 
 ### Green Light Meeting
 - [ ] Elevator pitch - 30 sec summary of the app
-- [ ] Wireframes - visual representations of all the pages your user will see for your MVP
+- [x] Wireframes - visual representations of all the pages your user will see for your MVP
 - [x] DB schema drawn out with column names, data types, and table relationships
-- [ ] CRUD actions
+- [x] CRUD actions
 - [x] User stories for your MVP on Trello
 
 ### Trello Board
