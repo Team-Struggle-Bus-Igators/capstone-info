@@ -19,20 +19,20 @@
     - LastName: StruggleBusIgators
 
 # Adding RSpec
-$ bundle add rspec-rails
-$ rails generate rspec:install
+- $ bundle add rspec-rails
+- $ rails generate rspec:install
 # Adding React
-$ bundle add webpacker
-$ bundle add react-rails
-$ rails webpacker:install
-$ rails webpacker:install:react
-$ yarn add @babel/preset-react
-$ yarn add @rails/activestorage
-$ yarn add @rails/ujs
-$ rails generate react:install
-$ rails generate react:component App
+- $ bundle add webpacker
+- $ bundle add react-rails
+- $ rails webpacker:install
+- $ rails webpacker:install:react
+- $ yarn add @babel/preset-react
+- $ yarn add @rails/activestorage
+- $ yarn add @rails/ujs
+- $ rails generate react:install
+- $ rails generate react:component App
 # Adding Devise
-$ bundle add devise
-$ rails generate devise:install
-$ rails generate devise User
-$ rails db:migrate
+- $ bundle add devise
+- $ rails generate devise:install
+- $ rails generate devise User
+- $ rails db:migrate
