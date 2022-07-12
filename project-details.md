@@ -18,7 +18,7 @@
 - [x] Decide on Developer Roles
 
 ### Green Light Meeting
-- [ ] Elevator pitch - 30 sec summary of the app
+- [x] Elevator pitch - 30 sec summary of the app
 - [x] Wireframes - visual representations of all the pages your user will see for your MVP
 - [x] DB schema drawn out with column names, data types, and table relationships
 - [x] CRUD actions
