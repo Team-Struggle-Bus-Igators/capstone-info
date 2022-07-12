@@ -18,10 +18,12 @@
     - firstname: Team
     - LastName: StruggleBusIgators
 
-# Adding RSpec
+
+# Setting up environment
+## Adding RSpec
 - $ bundle add rspec-rails
 - $ rails generate rspec:install
-# Adding React
+## Adding React
 - $ bundle add webpacker
 - $ bundle add react-rails
 - $ rails webpacker:install
@@ -31,7 +33,7 @@
 - $ yarn add @rails/ujs
 - $ rails generate react:install
 - $ rails generate react:component App
-# Adding Devise
+## Adding Devise
 - $ bundle add devise
 - $ rails generate devise:install
 - $ rails generate devise User
